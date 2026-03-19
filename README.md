@@ -122,7 +122,7 @@ Line chart showing variation in sales across different days of the week.
 <hr>
 
 <h2><a class="anchor" id="dataset">Dataset</a></h2>
-<a href="#">View Dataset</a>
+<a href="https://github.com/Pranita-Redekar/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">View Dataset</a>
 
 <h2>📷 Dashboard Preview</h2>
 <a href="#">View Dashboard</a>
