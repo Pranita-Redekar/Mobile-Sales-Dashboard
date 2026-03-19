@@ -125,7 +125,7 @@ Line chart showing variation in sales across different days of the week.
 <a href="https://github.com/Pranita-Redekar/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">View Dataset</a>
 
 <h2>📷 Dashboard Preview</h2>
-<a href="#">View Dashboard</a>
+<a href="https://github.com/Pranita-Redekar/Mobile-Sales-Dashboard/tree/main/Dashboard">View Dashboard</a>
 
 <hr>
 
